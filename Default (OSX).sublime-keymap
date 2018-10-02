@@ -1,0 +1,5 @@
+[  
+    {   
+        "keys": ["ctrl+alt+m+l"], "command": "js_string_to_multiline"   
+    }  
+] 
