@@ -2,7 +2,7 @@ sublime-jsstringtomultiline
 ===================
 
 Based on :
-[![V 1.0.0](https://img.shields.io/badge/Version_1.0.0-Stable-green.svg)](https://github.com/braianj/sublime-jsstringtomultiline/tree/v-1.0.0) |
+[![V 1.0.2](https://img.shields.io/badge/Version_1.0.0-Stable-green.svg)](https://github.com/braianj/sublime-jsstringtomultiline/tree/v-1.0.2) |
 
 Sublime plugin for creating multiline string from selected text in JavaScript.
 
