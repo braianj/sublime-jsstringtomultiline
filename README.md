@@ -24,7 +24,7 @@ is converted to
                     '</div>',
 ```
 
-The default keybinding is ctrl-alt-m-l
+The default keybinding is `ctrl+alt+m/ctrl+alt+l`
 
 Enjoy!
 
